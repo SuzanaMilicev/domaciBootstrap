@@ -1,0 +1,25 @@
+.header {
+    height: 500px;
+    background-color: #ededed;
+}
+
+.header-image {
+    width: 250px;
+    padding-top: 75px;
+}
+
+.grid-item {
+    max-width: 300px;
+}
+
+.grid-item img {
+    max-height: 300px;
+}
+
+.footer-style {
+    background-color: #ededed;
+}
+
+#modalImg:hover {
+    cursor: pointer;
+}
