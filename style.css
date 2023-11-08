@@ -12,7 +12,7 @@
     max-width: 300px;
 }
 
-.grid-item img {
+.grid-item-css img {
     max-height: 300px;
 }
 
@@ -22,4 +22,13 @@
 
 #modalImg:hover {
     cursor: pointer;
+}
+
+.about-section {
+    min-height: 400px;
+    background-color: rgba(210, 229, 244, 0.5)
+}
+
+.send-button button {
+    padding: 15px 20px !important;
 }
